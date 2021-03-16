@@ -1,5 +1,5 @@
 const config = {
-    STRIPE_KEY: "pk_test_51IOu0kEP7WQP04qmtkFc4BXVucdw28QpPabrxE3mKfH49NzcrdMccuetgmDBBdiF7",
+    STRIPE_KEY: "pk_test_51IOu0kEP7WQP04qmtkFc4BXVucdw28QpPabrxE3mKfH49NzcrdMccuetgmDBBdiF7AED7pO9BJKVzEdW1wRP0HBG00T8e9e1rx",
     MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
         REGION: "us-east-1",
